@@ -1,0 +1,10 @@
+1,2,3,1, In a passage. the passage is empty and quiet. it connects two rooms. the entry room and the other room
+2,3,3,1, In a passage. it seems like there is also nothing is this passage. the passage connects the building materials storage room and the other room
+4,5,3,1, In a passage
+6,7,3,1, In a passage that goes east/west
+7,8,3,1, In a passage
+5,9,3,1, In a passage that connects the sitting room and the kitchen
+9,10,3,1,In a passage that leaves the east side of the kitchen
+2,5,0,2, In a passage north/south from or to the storage room
+5,7,0,2, In a passage that comes from the sitting room north/south
+9,8,0,2, In a passage

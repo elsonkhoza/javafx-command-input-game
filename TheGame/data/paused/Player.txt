@@ -1,0 +1,5 @@
+8
+hammer, The hammer is used to break some barriers. but it is a bit heavy. U may want to drop it after using it. It uses to much energy
+food, The food used for walking. kidding. You know was food is for. Eating when you u feeling hungry.
+gun, It is used for shooting. it was left by one of the guards and it has only one bullet in it
+keys,The keys are used to open a locked door,7,0
